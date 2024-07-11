@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){var t=document.querySelector(".wall"),e=document.querySelector(".spider");if(t&&e){t.style.position="relative";var n=t.getBoundingClientRect(),o=n.width,i=n.height,l=e.getBoundingClientRect(),c=l.width,d=l.height;e.style.position="absolute",e.style.left="".concat((o-c)/2,"px"),e.style.top="".concat((i-d)/2,"px")}});
+//# sourceMappingURL=index.5cff8d9e.js.map
